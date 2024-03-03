@@ -1,0 +1,5 @@
+export const PROFIL_SELLER = "Commerçant (Créez vos Boutiques et vendez vos produits)"
+export const PROFIL_ADMIN = "Admin"
+export const PROFIL_FREELANCER ="Freelancer (Faites vous embaucher et gagnez des marchés)"
+export const PROFIL_WORKER = "Chercheur d'emploie (Faites vous recruter par des Entreprises dans tout le territoire du pays)"
+export const PROFILE_CUSTOMER = "Client (Rencontrez des freelancers et des entreprises pour realiser vos projets)"
